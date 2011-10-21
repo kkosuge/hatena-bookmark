@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "hatena-bookmark.gemspec",
     "lib/hatena-bookmark.rb",
     "spec/hatena-bookmark_spec.rb",
     "spec/spec_helper.rb"

@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "hatena-bookmark"
   gem.homepage = "http://github.com/kkosuge/hatena-bookmark"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "ksgkzy@gmail.com"
+  gem.summary = %Q{hatena-bookmark is simple Hatena::Bookmark AtomAPI library.}
+  gem.description = %Q{hatena-bookmark is simple Hatena::Bookmark AtomAPI library.}
+  gem.email = "kkosuge@about.me"
   gem.authors = ["kkosuge"]
   # dependencies defined in Gemfile
 end
