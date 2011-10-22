@@ -1,7 +1,0 @@
-= hatena-bookmark
-
-== Copyright
-
-Copyright (c) 2011 kkosuge. See LICENSE.txt for
-further details.
-
