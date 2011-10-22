@@ -14,7 +14,7 @@ describe Hatena::Bookmark do
     @eid = ""
   end
 
-  it "must recieeeeeeeeeeeeeve" do
+  it "must recieve response" do
     @hatebu.ping.should be_kind_of Hash
     @hatebu.ok?.should be_true
   end
